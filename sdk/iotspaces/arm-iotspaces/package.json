@@ -21,7 +21,7 @@
   "types": "./esm/ioTSpacesClient.d.ts",
   "devDependencies": {
     "typescript": "^3.1.1",
-    "rollup": "^0.66.2",
+    "rollup": "^2.79.2",
     "rollup-plugin-node-resolve": "^3.4.0",
     "uglify-js": "^3.4.9"
   },
