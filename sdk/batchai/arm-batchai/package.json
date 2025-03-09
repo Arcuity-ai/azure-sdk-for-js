@@ -4,8 +4,8 @@
   "description": "BatchAIManagementClient Library with typescript type definitions for node.js and browser.",
   "version": "2.2.0",
   "dependencies": {
-    "@azure/ms-rest-azure-js": "^1.4.0",
-    "@azure/ms-rest-js": "^1.11.0",
+    "@azure/ms-rest-azure-js": "^2.0.0",
+    "@azure/ms-rest-js": "^2.0.0",
     "@azure/core-auth": "^1.1.4",
     "tslib": "^1.9.3"
   },
