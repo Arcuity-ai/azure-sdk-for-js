@@ -27,6 +27,6 @@
   "dependencies": {
     "@azure/arm-sql": "latest",
     "dotenv": "latest",
-    "@azure/identity": "^2.0.1"
+    "@azure/identity": "^4.2.1"
   }
 }
