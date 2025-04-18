@@ -28,7 +28,7 @@
   "dependencies": {
     "@azure-rest/load-testing": "next",
     "dotenv": "latest",
-    "@azure/identity": "^2.0.1",
+    "@azure/identity": "^4.2.1",
     "uuid": "^9.0.0"
   }
 }
