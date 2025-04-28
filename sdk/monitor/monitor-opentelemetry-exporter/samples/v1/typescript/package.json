@@ -36,7 +36,7 @@
     "dotenv": "latest",
     "@opentelemetry/api": "^1.0.1",
     "@opentelemetry/resources": "^0.22.0",
-    "@opentelemetry/semantic-conventions": "^0.24.0",
+    "@opentelemetry/semantic-conventions": "^1.23.0",
     "@opentelemetry/instrumentation": "0.22.0",
     "@opentelemetry/sdk-trace-base": "^1.0.1",
     "@opentelemetry/sdk-trace-node": "^1.0.1",
